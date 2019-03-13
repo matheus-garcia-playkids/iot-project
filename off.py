@@ -1,6 +1,3 @@
-#Controle de servo no Raspberry Pi
-#Autor: Simon Monk
-
 import RPi.GPIO as GPIO
 import time
 
